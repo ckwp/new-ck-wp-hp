@@ -24,6 +24,7 @@ body{
 .subtitle{
   text-decoration: underline;
   font-size: 150%;
+  text-align: center;
 }
 
 iframe {
@@ -42,6 +43,20 @@ iframe {
 
 .footer-copyright a {
   color: #fff;
+}
+
+.activity {
+  font-size: 120%;
+}
+
+.year{
+  font-size: 1.5em;
+}
+
+.kazu{
+  color: red;
+  font-weight: bold;
+  font-size: 1.5em;
 }
 
 
